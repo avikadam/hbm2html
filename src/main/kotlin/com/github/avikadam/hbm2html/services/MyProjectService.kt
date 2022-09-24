@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.avikadam.hbm2html.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.avikadam.hbm2html.MyBundle
 
 class MyProjectService(project: Project) {
 
